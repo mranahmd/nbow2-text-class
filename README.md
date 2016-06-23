@@ -11,9 +11,9 @@ For a quick overview take a look at the [ipython notebook on RT task](https://gi
 ---
 
 ## Instructions
-The python scripts in the `src` directory will train and evaluate the performance of the NBOW2 model presented in the paper. 
+The python scripts in the `src` directory will train and evaluate the performance of the NBOW2 model on the Sentiment and topic classification tasks presented in the paper. 
 
-For simplicity and re-usability, the python scripts reuse most of the code of the [MLP example from the Theano website](http://deeplearning.net/tutorial/mlp.html). (Although this leads to a computationally slower version and faster version can be implemented in python or C.)
+For simplicity and re-usability, the python scripts reuse most of the code of the [MLP example from the Theano website](http://deeplearning.net/tutorial/mlp.html). (Although this leads to a computationally slower version and a faster version can be implemented in python or C.)
 
 In order to run these scripts, and reproduce the results in the paper, the following pre-requisites must be fulfilled:
 - Python 2.7 or higher, Theano 0.7 or higher 
