@@ -23,5 +23,5 @@ In order to run these scripts, and reproduce the results in the paper, the follo
 
 Relevant notes:
 - The experiments reported in the paper were performed on a Ubuntu machine with NVIDIA Quadro K4000 GPU and with THEANO_FLAGS=‘floatX=float32’
-- The ‘models’ directory stores the outputs and results of the training and testing performed with this code (and mentioned in the paper). The authors were able to reproduce these outputs (with differences after the 7th decimal place) while running on a Apple laptop computer.
-- The ‘data’ directory with the source stores term index and vocabulary files for each of the task. The scripts used to obtain these are also provided. The original datasets may or may not be provided but atleast the files used from the original datasets are hinted.
+- The `models` directory stores the outputs and results of the training and testing performed with this code (and mentioned in the paper). The authors were able to reproduce these outputs (with differences after the 7th decimal place) while running on a Apple laptop computer.
+- The `data` directory with the source stores term index and vocabulary files for each of the task. The scripts used to obtain these are also provided. The original datasets may or may not be provided but atleast the files used from the original datasets are hinted.
