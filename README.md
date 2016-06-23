@@ -6,7 +6,7 @@ These results were described in the RepL4NLP ACL 2016 paper:
 
 > *Learning Word Importance with the Neural Bag-of-Words Model* by Sheikh Imran, Irina Illina, Dominique Fohr and Georges Linares.
 
-For a quick overview take a look at the [ipython notebook on RT task](https://github.com/mranahmd/nbow2-text-class/edit/master/src/rt_nbow2_visualization.ipynb). Some instructions are avialble below and source code 
+For a quick overview take a look at the [ipython notebook on RT task](https://github.com/mranahmd/nbow2-text-class/edit/master/src/rt_nbow2_visualization.ipynb). Otherwise you can follow the instructions available below and the source code description available in the README in `src` directory.
 
 ---
 
