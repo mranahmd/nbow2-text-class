@@ -19,7 +19,7 @@ To perform the 10-fold train-test use the ‘run_rt_nbow2_10k-cv.sh’ batch scr
 [prepareRtNbow2WtsSVMInput.py]
 - Prepares the liblinear/libsvm supported BOW format for the SVM classification experiment on the RT NBOW2 model word importance weights presented in Table 3 of the paper. Again the batch script ‘run_rt_nbow2-wts_10k-cv.sh’ can be directly used for the 10 fold cross validation.
 
-[drawTxt.py]
+[drawFns.py]
 - Function for drawing/writing documents with word importance information. Used for visualisation purpose in rt_nbow2_visualization.ipynb
 
 [rt_nbow2_visualization.ipynb]
