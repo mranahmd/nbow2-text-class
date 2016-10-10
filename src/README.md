@@ -3,7 +3,7 @@ A quick description of the main source files and their dependencies are give bel
 [20ng_nbow.py]
 - Train and test the NBOW-RAND model on the 20 newsgroup topic classification task. To use pre-trained vectors download glove.42B.300d, use script in ‘data/20ng’ directory to extract relevant word vectors and set ‘random_init=0’ in 20ng_nbow.py  
 
-[20ng_nbow.py]
+[20ng_nbow2.py]
 - Train and test the NBOW2-RAND model on the 20 newsgroup topic classification task. To use pre-trained vectors download glove.42B.300d, use script in ‘data/20ng’ directory to extract relevant word vectors and set ‘random_init=0’ in 20ng_nbow2.py
 
 [imdb_nbow2.py]
